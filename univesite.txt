@@ -1,0 +1,120 @@
+000-Institut national des telecommunications et des technologies de l'information et de la communication_Oran. 
+001-Ecole preparatoire en sciences economiques, commerciales et sciences de gestion a Oran_Oran.               
+002-Ecole preparatoire en sciences economiques, commerciales et sciences de gestion_Tlemcen.                   
+003-Ecole nationale superieure d'informatique de Sidi Bel Abbes_Sidi Bel Abbes.                                
+004-Centre national de recherche en anthropologie sociale et culturelle_Oran.                                  
+005-Faculte de medecine d'Oran_Oran.                                                                           
+006-Ecole normale superieure d'Oran.                                                                           
+007-Universite Molay Taher de Saida_Saida.                                                                     
+008-Universite Ibn Khaldoun de Tiaret_Tiaret.                                                                  
+009-Ecole nationale polytechnique d'Oran_Oran.                                                                 
+010-Centre universitaire de Relizane_Relizane.                                                                 
+011-Universite Hassiba Benbouali de Chlef_Chlef.                                                               
+012-Universite d'Oran Es-Senia Ahmed Ben Bella.                                                                
+013-Centre universitaire de Tissemsilt_Tissemsilt.                                                             
+014-Universite Abou Bekr Belkaid de Tlemcen_Tlemcen.                                                           
+015-Ecole preparatoire en sciences et techniques_Tlemcen.                                                      
+016-Ecole preparatoire aux sciences et techniques d'Oran_Oran.                                                 
+017-Ecole superieure agronomique de Mostaganem_ Mostaganem.                                                    
+018-Centre universitaire de Ain Temouchent_Temouchent.                                                         
+019-Universite d'Oran Es-Senia Ahmed Ben Bella.                                                                
+020-Universite Abdelhamid Ibn Badis de Mostaganem_ Mostaganem.                                                 
+021-Universite Djillali Liabes de Sidi Bel Abbes_Sidi Bel Abbes.                                               
+022-Centre national de recherche en anthropologie sociale et culturelle_Oran.                                  
+023-Centre universitaire de Tissemsilt_Tissemsilt.                                                             
+024-Universite des sciences et de la technologie d'Oran Mohamed _Oran.                                         
+025-Universite Mohamed Cherif Messaidia de Souk Ahras_Souk Ahras.                                              
+026-Ecole normale superieure de Constantine_Constantine.                                                       
+027-Ecole nationale polytechnique de Constantine_Constantine.                                                  
+028-Universite El Hadj Lakhdar de Batna_Batna.                                                                 
+029-Ecole nationale superieure des mines et metallurgie d'Annaba_Annaba.                                       
+030-Universite 20 août 1955 de Skikda_Skikda.                                                                  
+031-Universite Mohamed Lamine Debaghine_Setif.                                                                 
+032-Universite Kasdi Merbah de Ouargla_Ouargla.                                                                
+033-Universite Mentouri Constantine_Constantine.                                                               
+034-Ecole preparatoire en sciences economiques, commerciales et sciences de gestion de Constantine_Constantine.
+035-Universite Mohamed El Bachir El Ibrahimi de Bordj Bou Arreridj_Bordj Bou Arreridj.                         
+036-Ecole preparatoire en sciences de la nature et de la vie d'Oran_Oran.                                      
+037-Universite de Batna_Batna.                                                                                 
+038-Universite de Jijel_Jijel.                                                                                 
+039-Universite Ferhat-Abbas_Setif.                                                                             
+040-Universite Badji Mokhtar_Annaba.                                                                           
+041-Universite Hamouda Bensai_Setif.                                                                           
+042-Universite de Zerzara_Constantine.                                                                         
+043-Centre universitaire de Mila_Mila.                                                                         
+044-Centre universitaire de Naama_Naama.                                                                       
+045-Universite Abbes Laghrour_Khenchela.                                                                       
+046-Faculte de medecine de Annaba_Annaba.                                                                      
+047-Universite Emir Abdelkader_Constantine.                                                                    
+048-Universite Abdelhamid Mehri_Constantine.                                                                   
+049-Universite de Constantine 3_Constantine.                                                                   
+050-Universite Larbi Tebessi_Tebessa.                                                                          
+051-Ecole normale superieure d'enseignement technologique de Skikda_Skikda.                                    
+052-Universite d'El Tarf_Taref.                                                                                
+053-Universite de Guelma_Guelma.                                                                               
+054-Institut national de la poste et des technologies de l'information et de la communication_Alger.           
+055-Ecole nationale superieure des sciences de la mer et de l'amenagement du littoral d'Alger_Alger.           
+056-Ecole preparatoire en sciences economiques, commerciales et sciences de gestion a Alger_Alger.             
+057-Ecole nationale superieure de journalisme et des sciences de l'information d'Alger_Alger.                  
+058-Ecole nationale superieure en statistique et en economie appliquee d'Alger_Alger.                          
+059-Ecole preparatoire en sciences de la nature et de la vie a Alger_Alger.                                    
+060-Universite des sciences et de la technologie Houari-Boumediene_Alger.                                      
+061-Institut national d'electronique et de genie electrique_Boumerdes.                                         
+062-Universite A'Hamed Bougara dit Si Mhamed de Boumerdes_Boumerdes.                                           
+063-Ecole polytechnique d'architecture et d'urbanisme d'Alger_Alger.                                           
+064-Ecole nationale superieure de sciences politiques d'Alger_Alger.                                           
+065-Ecole nationale preparatoire aux etudes d'ingeniorat_Alger.                                                
+066-Ecole nationale superieure d'informatique d'Alger_Alger.                                                   
+067-Ecole nationale superieure de technologie d'Alger_Alger.                                                   
+068-Ecole nationale superieure de management d'Alger_Alger.                                                    
+069-Ecole nationale superieure agronomique d'Alger_Alger.                                                      
+070-Ecole nationale superieure veterinaire d'Alger_Alger.                                                      
+071-Universite Mouloud Mammeri de Tizi Ouzou_Tizi Ouzou.                                                       
+072-Ecole des hautes etudes commerciales d'Alger_Alger.                                                        
+073-Ecole preparatoire en sciences et techniques_Alger.                                                        
+074-Centre universitaire de Ain Temouchent_Temouchent.                                                         
+075-Ecole nationale des travaux publics d'Alger_Alger.                                                         
+076-Ecole nationale superieure d'hydraulique_Bouira.                                                           
+077-Centre universitaire de Tamanrasset_Tamanrasset.                                                           
+078-Institut national de recherche forestiere_Alger.                                                           
+079-Station de recherche forestiere de Baraki_Alger.                                                           
+080-Institut national de genie mecanique_Boumerdes.                                                            
+081-Ecole nationale d'administration d'Alger_Alger.                                                            
+082-Ecole superieure algerienne des affaires_Alger.                                                            
+083-Faculte des sciences islamiques d'Alger_Alger.                                                             
+084-Universite Abderrahmane Mira de Bejaia_Bejaia.                                                             
+085-Universite Benyoucef Benkhedda d'Alger_Alger.                                                              
+086-Ecole normale superieure de Laghouat_Laghout.                                                              
+087-Ecole nationale polytechnique d'Alger_Alger.                                                               
+088-Ecole normale superieure de Bouzareah_Alger.                                                               
+089-Centre universitaire d'El Bayadh_El Bayadh.                                                                
+090-Universite Mohand Oulhadj de Bouira_Bouira.                                                                
+091-Ecole superieure de commerce d'Alger_Alger.                                                                
+092-Universite Larbi Ben M'Hidi_Oum El Bouaghi.                                                                
+093-Universite Mohamed Khider de Biskra_Biskra.                                                                
+094-Universite de la formation continue_Alger.                                                                 
+095-Institut algerien du petrole_Boumerdes.                                                                    
+096-Centre universitaire de Tindouf_Tindouf.                                                                   
+097-Ecole normale superieure de Kouba_Alger.                                                                   
+098-Universite Djilali Bounaama_ Ain Defla.                                                                    
+099-Centre universitaire de Tipaza_Tipaza.                                                                     
+100-Universite Saad Dahlab de Blida_Blida.                                                                     
+101-Universite Lounici Ali de Blida_Blida.                                                                     
+102-Centre universitaire d'Illizi_Illizi.                                                                      
+103-Centre cynegetique de Reghaia_Alger.                                                                       
+104-Centre cynegetique de Zeralda_Alger.                                                                       
+105-Faculte de droit de Biskra_Biskra.                                                                         
+106-Faculte de medecine d'Alger_Alger.                                                                         
+107-Ecole superieure de banque_Alger.                                                                          
+108-Centre national de baguage_Alger.                                                                          
+109-Universite de Ghardaia_Ghardaia.                                                                           
+110-Universite Amar Telidji_Laghouat.                                                                          
+111-Universite Mohamed Tahri_Bechar.                                                                           
+112-Universite Ziane Achour_Djelfa.                                                                            
+113-Universite de Mascara_Mascara.                                                                             
+114-Universite d'El Oued_El Oued.                                                                              
+115-Universite Ahmed Draya_Adrar.                                                                              
+116-Universite d'Alger 2_Alger.                                                                                
+117-Universite d'Alger 3_Alger.                                                                                
+118-Universite de Medea_ Medea.                                                                                
+119Universite de MSila_ MSila.                                                                                         

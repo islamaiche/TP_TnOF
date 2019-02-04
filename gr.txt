@@ -1,0 +1,6 @@
+00-Professeur(e).                
+01-Maître de conférences Rang A. 
+02-Maître de conférences Rang B. 
+03-Maître assistant(e) Rang A.   
+04-Maître assistant(e) Rang B.   
+05-Assistant(e).                 

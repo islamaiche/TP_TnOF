@@ -1,0 +1,17 @@
+00-Informatique.          
+01-Architecture.          
+02-Medecine.              
+03-Mathemathiques.        
+04-Science et technologie.
+05-Paramedicale.          
+06-Biotechnologie.        
+07-Electrotechnique.      
+08-Sociologie.            
+09-Biologie.              
+10-Science du matiere.    
+11-Science Islamique.     
+12-Chimie.                
+13-Physique.              
+14-Histoire.              
+15-Science Humaine.       
+16-Veterinair.            

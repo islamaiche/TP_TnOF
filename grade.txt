@@ -1,0 +1,6 @@
+Professeur(e).                
+Maître de conférences Rang A. 
+Maître de conférences Rang B. 
+Maître assistant(e) Rang A.   
+Maître assistant(e) Rang B.   
+Assistant(e).                 

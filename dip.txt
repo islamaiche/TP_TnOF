@@ -1,0 +1,5 @@
+00-Doctorat d’Etat.     
+01-Doctorat en sciences.
+02-PhD.                 
+03-HDR.                 
+04-Magistère.           

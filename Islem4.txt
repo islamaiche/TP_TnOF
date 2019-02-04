@@ -1,0 +1,120 @@
+Ecole preparatoire en sciences economiques, commerciales et sciences de gestion de Constantine_Constantine.
+Institut national des telecommunications et des technologies de l'information et de la communication_Oran. 
+Institut national de la poste et des technologies de l'information et de la communication_Alger.           
+Ecole preparatoire en sciences economiques, commerciales et sciences de gestion a Annaba_Annaba.           
+Ecole nationale superieure des sciences de la mer et de l'amenagement du littoral d'Alger_Alger.           
+Ecole preparatoire en sciences economiques, commerciales et sciences de gestion a Alger_Alger.             
+Ecole preparatoire en sciences economiques, commerciales et sciences de gestion a Oran_Oran.               
+Ecole nationale superieure de journalisme et des sciences de l'information d'Alger_Alger.                  
+Ecole preparatoire en sciences economiques, commerciales et sciences de gestion_Tlemcen.                   
+Universite Mohamed El Bachir El Ibrahimi de Bordj Bou Arreridj_Bordj Bou Arreridj.                         
+Ecole nationale superieure en statistique et en economie appliquee d'Alger_Alger.                          
+Ecole nationale superieure d'informatique de Sidi Bel Abbes_Sidi Bel Abbes.                                
+Centre national de recherche en anthropologie sociale et culturelle_Oran.                                  
+Ecole nationale superieure de biotechnologie de Constantine_Constantine.                                   
+Ecole normale superieure d'enseignement technologique de Skikda_Skikda.                                    
+Ecole preparatoire en sciences de la nature et de la vie a Alger_Alger.                                    
+Universite des sciences et de la technologie Houari-Boumediene_Alger.                                      
+Ecole preparatoire en sciences de la nature et de la vie d'Oran_Oran.                                      
+Ecole nationale superieure des mines et metallurgie d'Annaba_Annaba.                                       
+Institut national d'electronique et de genie electrique_Boumerdes.                                         
+Universite des sciences et de la technologie d'Oran Mohamed _Oran.                                         
+Universite A'Hamed Bougara dit Si Mhamed de Boumerdes_Boumerdes.                                           
+Ecole polytechnique d'architecture et d'urbanisme d'Alger_Alger.                                           
+Ecole nationale superieure de sciences politiques d'Alger_Alger.                                           
+Universite Mohamed Cherif Messaidia de Souk Ahras_Souk Ahras.                                              
+Ecole preparatoire en sciences et techniques a Annaba_Annaba.                                              
+Universite Djillali Liabes de Sidi Bel Abbes_Sidi Bel Abbes.                                               
+Ecole nationale preparatoire aux etudes d'ingeniorat_Alger.                                                
+Universite Abdelhamid Ibn Badis de Mostaganem_ Mostaganem.                                                 
+Ecole preparatoire aux sciences et techniques d'Oran_Oran.                                                 
+Ecole nationale polytechnique de Constantine_Constantine.                                                  
+Ecole nationale superieure d'informatique d'Alger_Alger.                                                   
+Ecole nationale superieure de technologie d'Alger_Alger.                                                   
+Ecole nationale superieure de management d'Alger_Alger.                                                    
+Ecole superieure agronomique de Mostaganem_ Mostaganem.                                                    
+Ecole preparatoire en sciences et techniques_Tlemcen.                                                      
+Ecole nationale superieure agronomique d'Alger_Alger.                                                      
+Ecole nationale superieure veterinaire d'Alger_Alger.                                                      
+Universite Mouloud Mammeri de Tizi Ouzou_Tizi Ouzou.                                                       
+Ecole normale superieure de Constantine_Constantine.                                                       
+Ecole des hautes etudes commerciales d'Alger_Alger.                                                        
+Ecole preparatoire en sciences et techniques_Alger.                                                        
+Centre universitaire de Ain Temouchent_Temouchent.                                                         
+Ecole nationale des travaux publics d'Alger_Alger.                                                         
+Ecole nationale superieure d'hydraulique_Bouira.                                                           
+Centre universitaire de Tamanrasset_Tamanrasset.                                                           
+Universite Abou Bekr Belkaid de Tlemcen_Tlemcen.                                                           
+Institut national de recherche forestiere_Alger.                                                           
+Station de recherche forestiere de Baraki_Alger.                                                           
+Institut national de genie mecanique_Boumerdes.                                                            
+Ecole nationale d'administration d'Alger_Alger.                                                            
+Ecole superieure algerienne des affaires_Alger.                                                            
+Centre universitaire de Tissemsilt_Tissemsilt.                                                             
+Faculte des sciences islamiques d'Alger_Alger.                                                             
+Universite Abderrahmane Mira de Bejaia_Bejaia.                                                             
+Universite Benyoucef Benkhedda d'Alger_Alger.                                                              
+Ecole normale superieure de Laghouat_Laghout.                                                              
+Ecole nationale polytechnique d'Alger_Alger.                                                               
+Ecole normale superieure de Bouzareah_Alger.                                                               
+Universite Mentouri Constantine_Constantine.                                                               
+Universite d'Oran Es-Senia Ahmed Ben Bella.                                                                
+Centre universitaire d'El Bayadh_El Bayadh.                                                                
+Universite Hassiba Benbouali de Chlef_Chlef.                                                               
+Universite Mohand Oulhadj de Bouira_Bouira.                                                                
+Ecole superieure de commerce d'Alger_Alger.                                                                
+Universite Kasdi Merbah de Ouargla_Ouargla.                                                                
+Centre universitaire de Relizane_Relizane.                                                                 
+Universite Mohamed Lamine Debaghine_Setif.                                                                 
+Universite Larbi Ben M'Hidi_Oum El Bouaghi.                                                                
+Universite Mohamed Khider de Biskra_Biskra.                                                                
+Universite de la formation continue_Alger.                                                                 
+Ecole nationale polytechnique d'Oran_Oran.                                                                 
+Institut algerien du petrole68_Boumerdes.                                                                  
+Centre universitaire de Tindouf_Tindouf.                                                                   
+Universite 20 août 1955 de Skikda_Skikda.                                                                  
+Universite El Hadj Lakhdar de Batna_Batna.                                                                 
+Universite Ibn Khaldoun de Tiaret_Tiaret.                                                                  
+Universite de Constantine 3_Constantine.                                                                   
+Ecole normale superieure de Kouba_Alger.                                                                   
+Universite Abdelhamid Mehri_Constantine.                                                                   
+Universite Djilali Bounaama_ Ain Defla.                                                                    
+Universite Emir Abdelkader_Constantine.                                                                    
+Centre universitaire de Tipaza_Tipaza.                                                                     
+Universite Molay Taher de Saida_Saida.                                                                     
+Universite Saad Dahlab de Blida_Blida.                                                                     
+Universite Lounici Ali de Blida_Blida.                                                                     
+Centre universitaire d'Illizi_Illizi.                                                                      
+Universite Abbes Laghrour_Khenchela.                                                                       
+Faculte de medecine de Annaba_Annaba.                                                                      
+Centre universitaire de Naama_Naama.                                                                       
+Centre cynegetique de Reghaia_Alger.                                                                       
+Centre cynegetique de Zeralda_Alger.                                                                       
+Centre universitaire de Mila_Mila.                                                                         
+Faculte de droit de Biskra_Biskra.                                                                         
+Faculte de medecine d'Alger_Alger.                                                                         
+Universite de Zerzara_Constantine.                                                                         
+Universite Larbi Tebessi_Tebessa.                                                                          
+Ecole superieure de banque_Alger.                                                                          
+Centre national de baguage_Alger.                                                                          
+Universite de Ghardaia_Ghardaia.                                                                           
+Universite Hamouda Bensai_Setif.                                                                           
+Universite Badji Mokhtar_Annaba.                                                                           
+Universite Amar Telidji_Laghouat.                                                                          
+Universite Mohamed Tahri_Bechar.                                                                           
+Faculte de medecine d'Oran_Oran.                                                                           
+Ecole normale superieure d'Oran.                                                                           
+Universite Ziane Achour_Djelfa.                                                                            
+Universite de Mascara_Mascara.                                                                             
+Universite Ferhat-Abbas_Setif.                                                                             
+Universite d'El Oued_El Oued.                                                                              
+niversite Ahmed Draya_Adrar.                                                                               
+Universite de Guelma_Guelma.                                                                               
+Universite d'El Tarf_Taref.                                                                                
+Universite d'Alger 2_Alger.                                                                                
+Universite d'Alger 3_Alger.                                                                                
+Universite de Medea_ Medea.                                                                                
+Universite de MSila_ MSila.                                                                                
+Universite de Jijel_Jijel.                                                                                 
+Universite de Batna_Batna.                                                                                 
+CHU d'Oran_Oran.                                                                                           
